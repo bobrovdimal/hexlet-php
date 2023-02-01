@@ -1,0 +1,15 @@
+{
+    "name": "oem/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Oem\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bobrov",
+            "email": "bobrovdimal@yandex.ru"
+        }
+    ],
+    "require": {}
+}
